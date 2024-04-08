@@ -24,7 +24,7 @@ traitlets        : 5.14.2
 
 ## Files
 - OwenStrengthAlgorithmsAssignment.ipynb
-- OwenStremgthAlgorithmsAssignmentDoc.pdf
+- OwenStrengthAlgorithmsAssignmentDoc.pdf
 - input.txt
 - README.md
 
